@@ -26,7 +26,7 @@
 ### 方法二：GitHub 安裝
 1. 安裝 [Tampermonkey 擴充套件](https://tampermonkey.net/)
 2. 開啟以下連結：  
-   [https://raw.githubusercontent.com/<你的帳號>/cake-insights-cleaner/main/cake-insights-cleaner.user.js](https://raw.githubusercontent.com/<你的帳號>/cake-insights-cleaner/main/cake-insights-cleaner.user.js)
+   [https://raw.githubusercontent.com/mlgzackfly/cake-insights-cleaner/main/cake-insights-cleaner.user.js](https://raw.githubusercontent.com/<你的帳號>/cake-insights-cleaner/main/cake-insights-cleaner.user.js)
 3. 瀏覽器會自動提示「安裝此腳本」→ 點擊「安裝」。
 
 ---
